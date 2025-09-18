@@ -1,0 +1,2 @@
+# Image
+Bulk Image Upscale
